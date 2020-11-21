@@ -2,7 +2,7 @@
 
 I'm software engineer interested in computer science and web development in general with a bachelor's degree in computer science from CSU CHICO.
 
-I enjoy creating web servers and front end applications 
+I enjoy creating web servers and front end applications, but also learning, solving problems and looking for different solutions it’s something I enjoy when building software.
 
 i have experience working with these languages:
 
